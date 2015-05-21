@@ -1,0 +1,9 @@
+li.list-group-item .hide
+{
+	display: none;
+}
+
+li.list-group-item.clicked .hide
+{
+	display: inline !important;
+}
